@@ -1,6 +1,10 @@
 <?php
     class Pages {
         public function __construct(){
-            echo 'Loaded';
+            // echo 'Loaded';
+        }
+
+        public function about(){
+            
         }
     }
