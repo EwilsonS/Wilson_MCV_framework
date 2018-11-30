@@ -1,7 +1,7 @@
 # wilsonMCV_framework
 MVC framework to begin any php build
 
-Be sure to change the .htaccess file to reflect your own project
+If you change the root name Be sure to change the .htaccess file in the public folder to reflect your own project. See below (RewriteBase).
 
 ```
 <IfModule mod_rewrite.c>
