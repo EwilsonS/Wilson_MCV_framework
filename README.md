@@ -1,6 +1,8 @@
 # wilsonMCV_framework
 MVC framework to begin any php build
 
+Change config/config.php to reflect your database info and website name
+
 If you change the root name Be sure to change the .htaccess file in the public folder to reflect your own project. See below (RewriteBase).
 
 ```
